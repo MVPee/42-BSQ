@@ -1,0 +1,2 @@
+#!/bin/bash
+perl generate_map.pl 15 15 5 > default_map
